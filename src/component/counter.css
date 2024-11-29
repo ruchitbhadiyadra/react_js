@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: chartreuse;
+}
+
 .counter {
     border: 1px solid black;
     padding: 30px;
